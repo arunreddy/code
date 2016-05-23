@@ -1,0 +1,3 @@
+[submodule "ucross"]
+	path = ucross
+	url = git@github.com:arunreddy/ucross.git
